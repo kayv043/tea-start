@@ -1,0 +1,24 @@
+{
+  "name": "tea-start",
+  "version": "1.0.0",
+  "description": "First Tea project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kayv043/tea-start.git"
+  },
+  "dependencies": {
+    "tea-serg": "1.0.0",
+    "tea-onef": "1.0.0",
+    "tea-kasy": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayv043/tea-start/issues"
+  },
+  "homepage": "https://github.com/kayv043/tea-start#readme"
+}
